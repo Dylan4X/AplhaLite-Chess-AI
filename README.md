@@ -123,7 +123,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-[Your contact information here]
+u430034083@mail.bnbu.edu.cn
 
 ---
 
